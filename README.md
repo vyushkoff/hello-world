@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-First test repository
+First test repository. Nothing interesting.
